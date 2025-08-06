@@ -3,6 +3,7 @@ const frases = [
   "Hoje é um bom dia para sorrir!",
   "Confie no seu código!",
   "Seja a lenda do seu próprio script!",
+  "Você é maravilhoso"
 ];
 
 const button = document.querySelector("button");
